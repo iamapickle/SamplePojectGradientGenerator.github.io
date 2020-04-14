@@ -1,0 +1,44 @@
+
+body{
+	background-image: linear-gradient(to right, #00ff00 , #0000ff);
+}
+
+.Heading01{
+	font: "Raleway";
+	font-size: 80px;
+	letter-spacing: 0.2em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#jj{
+	display: inline-flex;
+	word-spacing: 0.1em;
+	tab-size=2;
+}
+
+.Heading02{
+	font: "Raleway";
+	font-size: 40px;
+	letter-spacing: 0.1em;
+	/*text-align: center;*/
+	text-transform: uppercase;
+
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.Div02{
+	text-align: center;
+}
